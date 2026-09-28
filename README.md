@@ -2,7 +2,7 @@
 
 Personlig nettside med CV, prosjekter og kontaktinfo – på norsk og engelsk.
 
-**Live:** [julian-lund-rachlew.vercel.app/]
+**Live:** [julian-lund-rachlew.vercel.app]
 
 ## Innhold
 
