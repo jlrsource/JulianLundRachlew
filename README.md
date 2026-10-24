@@ -7,9 +7,9 @@ Personlig nettside med CV, prosjekter og kontaktinfo – på norsk og engelsk.
 ## Innhold
 
 - **Om meg** – kort introduksjon
-- **Prosjekter** – web-apper du kan teste direkte:
+- **Prosjekter** – web-apper jeg har laget:
   - [Innboforsikring-estimator](https://innboforsikring-estimat.vercel.app/)
-  - [Algoritmevisualisering (AlgDat)](https://algoritmevisualisering-alg-dat.vercel.app/)
+  - [Masterkey](https://github.com/jlrsource/Masterkey) – under utvikling
 - **Erfaring og utdanning** – tidslinje
 - **Kontakt**
 
